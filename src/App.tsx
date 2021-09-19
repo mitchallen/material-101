@@ -58,7 +58,7 @@ function App() {
               disabled={userName.length === 0}
               variant="outlined"
               onClick={handleClickYo}
-              key={1}>
+              key={2}>
               Say Yo
             </Button>
           </span>
